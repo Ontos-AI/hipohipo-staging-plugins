@@ -1,0 +1,16 @@
+{
+  "name": "hipohipo-staging-plugins",
+  "owner": {
+    "name": "Hipohipo"
+  },
+  "metadata": {
+    "description": "Official Hipohipo agent integrations"
+  },
+  "plugins": [
+    {
+      "name": "hipohipo-staging",
+      "source": "packages/hipohipo",
+      "description": "Search Hipohipo memory and documents, capture conversations, and save documents you choose."
+    }
+  ]
+}
